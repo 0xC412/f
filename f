@@ -1,1 +1,2 @@
 echo "f"
+echo "u"
